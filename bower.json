@@ -1,0 +1,27 @@
+{
+  "name": "create-wasm-app",
+  "description": "create an app to consume rust-generated wasm packages",
+  "main": "index.js",
+  "authors": [
+    "Jose"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webassembly",
+    "wasm",
+    "rust",
+    "webpack"
+  ],
+  "homepage": "https://github.com/rustwasm/create-wasm-app",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "highcharts-chart": "^2.0.2"
+  }
+}
